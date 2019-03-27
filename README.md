@@ -14,7 +14,11 @@ You'll also need to install virtualenv for testing the script
 You run the script via the following command:
 ```sh
 python3 script.py
+```
 
+This will generate the following prompt in the command-line:
+
+```
 Welcome to the StarIP Preamble Generator! 🌟🌟🌟
 
 
@@ -53,3 +57,4 @@ It generates a preamble.yaml file for you containing the preamble and shortened 
 - CLI needs to be better organized so validation checks happen after each prompt, not after all prompts have been entered
 - Docker container needs to be generated
 - Web UI needs to be built
+- Adhere to Pristine Documentation Guide
