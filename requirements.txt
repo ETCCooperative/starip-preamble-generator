@@ -1,0 +1,4 @@
+base58==1.0.3
+Click==7.0
+PyYAML==5.1
+validate-email==1.3
