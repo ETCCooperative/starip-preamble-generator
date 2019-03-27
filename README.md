@@ -36,8 +36,8 @@ The StarIP Preamble Has Been Generated:
 Author: Yaz Khoury
 Created: '2019-03-27'
 Discussions-To: yaz@etccooperative.org
-Reference-Hash: BgnS
-StarIP-Name: ECIP-Atlantis-VArZBgnS
+Reference-Hash: fEf8
+StarIP-Name: ECIP-Atlantis-AxsefEf8
 Status: Draft
 Title: Atlantis
 Type: Meta
